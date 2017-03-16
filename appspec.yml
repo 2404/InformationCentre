@@ -1,0 +1,5 @@
+version: 0.0
+os: windows
+files:
+  - source: \target\InformationCentre.war
+    destination: C:\tomcat\webapps
