@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \target\InformationCentre.war
-    destination: C:\tomcat\webapps
+    destination: C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps
